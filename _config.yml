@@ -48,10 +48,6 @@ features                                  :
     description                           : 自动记录比赛时长、分数变化，生成详细的比赛报告和历史记录
     fontawesome_icon_name                 : chart-bar
 
-  - title                                 : 多设备同步
-    description                           : 支持iPhone、iPad多设备使用，数据云端同步，随时随地查看比赛记录
-    fontawesome_icon_name                 : sync
-
   - title                                 : 简洁易用界面
     description                           : 直观的操作界面，大号按钮设计，即使在激烈比赛中也能轻松操作
     fontawesome_icon_name                 : mobile-alt
